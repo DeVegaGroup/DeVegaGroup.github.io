@@ -5,15 +5,14 @@ nav_order: 6
 has_children: true
 ---
 
-# Societal & Scientific Impact
+# Delivering Outcomes for Sustainable Agrifood
+[cite_start]Our research is not just about cataloging diversity; it's about understanding its effects well enough to deliver real-world outcomes for breeding and sustainable global food production[cite: 3].
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+## Breeding and Industry Partnerships
+[cite_start]We bridge the gap between academia and industry through strategic partnerships with companies like **Tozer Seeds** and **Tropic**. [cite_start]Our multi-trial GWAS on celery, for example, provides breeder-ready markers that directly accelerate the efficiency of commercial vegetable breeding[cite: 3]. [cite_start]Similarly, our work with **Germinal Seeds** is identifying high-yielding, climate-resilient white clover varieties[cite: 3].
 
-## Policy & Outreach
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+## Policy and Science Communication
+I am deeply committed to public engagement and science communication. [cite_start]I have contributed to articles for the general public on orphan crops and climate change, and served on consultative panels for the UK’s position on **Digital Sequence Information (DSI)** on genetic resources[cite: 6]. [cite_start]Our "Save the Banana" outreach activity has become a durable engagement asset at events like the Norwich Science Festival[cite: 6].
 
-## Industry Partnerships
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.
-
-## Awards & Recognition
-Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. At erat pellentesque adipiscing commodo elit at imperdiet dui accumsan. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+## Future Directions: Predictive Biology
+[cite_start]Looking ahead, our ambition is to build crop prediction models that make biological behavior increasingly predictable from genomic and environmental data[cite: 4]. [cite_start]By integrating **AI and Deep Learning**, we aim to tackle the high-dimensional challenges of complex polyploid and hybrid systems, ensuring our research remains at the cutting edge of agricultural innovation[cite: 4].
