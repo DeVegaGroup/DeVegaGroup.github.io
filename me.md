@@ -6,7 +6,7 @@ nav_order: 5
 
 # Dr Jose De Vega
 
-I am a Group Leader (tenured) at the Earlham Institute, Norwich, UK. We use genomics and data-driven biology to investigate genome evolution and agronomically important genetic diversity. My ambition is my team is a vibrant place for plant evolutionary genomics that addresses fundamental questions about how genomes evolve and tackles the practical breeding challenges posed by polyploidy, interspecific complexity, and asexual reproduction. 
+I am a Group Leader (tenured) at the Earlham Institute, Norwich, UK. My ambition is my team is a vibrant place for plant evolutionary genomics that addresses fundamental questions about how genomes evolve and tackles practical breeding challenges.
 
 ## Current role
 
