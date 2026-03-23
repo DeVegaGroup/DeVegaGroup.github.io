@@ -5,14 +5,25 @@ nav_order: 3
 has_children: true
 ---
 
-# Current Projects
-A detailed look at our ongoing grants and initiatives.
+# Current Research Projects
+Our portfolio spans a wide range of species and geographic regions, united by the use of high-throughput genomics to solve breeding bottlenecks.
 
-## Funded Initiatives
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec magna iaculis, tempor metus vel, aliquet urna. Mauris feugiat metus eget est hendrerit, eu elementum magna efficitur. Suspendisse potenti. Nam sollicitudin, sem id porta pellentesque, tellus lectus tincidunt eros, vel finibus felis ipsum ac nisl. Donec vel egestas purus, ut pellentesque tellus. Sed sed magna interdum, porta nisi ut, convallis nisi. 
+## Forage & Grassland Genomics
+We lead several projects on the genomics of forages, which are critical for sustainable livestock production. 
+* **Red and White Clover:** We have developed draft genomes and are currently using pangenome graphs to identify high-yielding, climate-resilient varieties in collaboration with Germinal Seeds.
+* **Brachiaria/Urochloa:** Our team has produced haplotype-resolved, chromosome-level assemblies for these complex polyploid tropical grasses, revealing the evolutionary history of their multiple genomic compositions.
 
-## Collaborative Labs
-In vel dui pretium, placerat elit ut, aliquet nisi. Suspendisse vitae nisi vitae purus condimentum tincidunt. Sed at lectus at diam placerat lacinia. Nunc a ipsum at lectus varius aliquet. Proin sed dictum sem, vel ullamcorper ante. Integer elementum, nibh ut eleifend convallis, est risus varius sem, sed convallis magna magna vel nibh.
+## Tropical Crop Resilience
+Our work extends to globally vital clonal crops that face significant disease pressures.
+* **Banana (Musa) Pangenomics:** Through the GCRF GROW Colombia project and partnerships with the Alliance of Bioversity and CIAT, we characterize subgenome recombination and chromosomal imbalances in banana lineages to combat threats like Fusarium wilt.
+* **Rice Diversity in Vietnam:** We explore selective sweeps during domestication to find novel diversity that can help breed varieties resistant to climate-induced stresses.
 
-## Infrastructure
-Integer non diam varius, ullamcorper orci et, efficitur mauris. Phasellus vitae quam et dui tristique pulvinar. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc sed tortor est.
+## Future Directions: Predictive Biology
+As we look toward the next phase of our research, our ambition is to position the group as a leader in **Predictive Evolutionary Genomics**. 
+
+We are moving beyond descriptive genomics toward the integration of **Machine Learning and Agentic AI** to simulate biological behavior. Our future programme focuses on:
+1. **Decoding Variation:** Understanding how asexual reproduction and polyploidy generate structural variation beyond simple SNPs.
+2. **Genomic Prediction:** Developing models that account for genotype-by-environment (GxE) interactions across multiple years and decades.
+3. **Breeding-Ready Pipelines:** Creating computational tools that not only identify QTLs but automatically prioritize causative genes using functional annotations and AI-driven literature analysis.
+
+By integrating these novel findings into genomic predictions, we ensure our research remains grounded in agricultural impact and driven by the needs of global stakeholders.
