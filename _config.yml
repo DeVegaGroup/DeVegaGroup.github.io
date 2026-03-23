@@ -6,3 +6,9 @@ remote_theme: just-the-docs/just-the-docs
 title: De Vega Lab
 description: Our group
 url: https://jjdevega.github.io
+# Navigation settings
+nav_enabled: true
+search_enabled: true
+
+# Color scheme (optional: light, dark, or system)
+color_scheme: light
