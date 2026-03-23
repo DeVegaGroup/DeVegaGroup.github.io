@@ -4,6 +4,8 @@ title: Our Research
 nav_order: 1
 ---
 
+# Who we are
+
 We are the Crop Evolution & Adaptation Lab (De Vega Lab) at the Earlham Institute (Norwich Research Park, UK). 
 
 Our lab aims to be a vibrant place for plant evolutionary genomics that addresses fundamental questions about how genomes evolve and tackles the practical breeding challenges posed by polyploidy, interspecific complexity, and asexual reproduction. 
