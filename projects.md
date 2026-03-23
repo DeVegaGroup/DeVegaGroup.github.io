@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Impact
+title: Projects
 nav_order: 3
 ---
 
