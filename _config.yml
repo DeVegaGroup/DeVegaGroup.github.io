@@ -9,17 +9,18 @@ url: https://devegagroup.github.io
 
 
 # Navigation settings
-nav_enabled: true
+nav_enabled: false
 search_enabled: false
-aux_links:
-  "GitHub Repository": "https://github.com/DeVegaGroup"
+
 
 
 nav_external_links:
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=vqxvVxQAAAAJ
     hide_icon: false
-  
+  - title: Group's Github
+    url: https://github.com/DeVegaGroup
+    hide_icon: false
 
 # Formatting
 back_to_top: true
