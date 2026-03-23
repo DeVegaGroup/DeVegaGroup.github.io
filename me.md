@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Me
+title: Jose (CV)
 nav_order: 5
 ---
 
 # Dr Jose De Vega
 
-I am a Group Leader (tenured) at the Earlham Institute, Norwich, UK. We use genomics and data-driven biology to investigate genome evolution and agronomically important genetic diversity. My ambition is to establish my team as a vibrant place for plant evolutionary genomics that addresses fundamental questions about how genomes evolve and tackles the practical breeding challenges posed by polyploidy, interspecific complexity, and asexual reproduction. 
+I am a Group Leader (tenured) at the Earlham Institute, Norwich, UK. We use genomics and data-driven biology to investigate genome evolution and agronomically important genetic diversity. My ambition is my team is a vibrant place for plant evolutionary genomics that addresses fundamental questions about how genomes evolve and tackles the practical breeding challenges posed by polyploidy, interspecific complexity, and asexual reproduction. 
 
 ## Current role
 
@@ -67,7 +67,7 @@ Since January 2026, I have served as **Postgraduate Researchers Director** in a 
 
 I hold multiple leadership roles across large programmes and consortia. I coordinate **DECODE WP2** and **Legume Generation WP7**, and I serve as deputy coordinator for **CELLGEN WP2**. I am also principal investigator for two Innovate UK projects. Across these roles, I lead delivery, including reporting, milestone tracking, budgeting and financial oversight, recruitment, coordination with project managers, contract management, and partner engagement. These responsibilities demonstrate both scientific and managerial leadership.
 
-At institute level, I represent EI on the **ARIES DTP board**. I have also represented the institute, or Faculty, on three committees: **Horticultural Services and New Infrastructure**; **IDEA** (Inclusivity, Diversity, Equality, and Accessibility); and **Information Systems and Library**. These roles reflect sustained contributions to institute operations and culture, spanning infrastructure planning, inclusivity and accessibility, and research-enabling services.
+At the institute level, I represent EI on the **ARIES DTP board**. I have also represented the institute, or Faculty, on three committees: **Horticultural Services and New Infrastructure**; **IDEA** (Inclusivity, Diversity, Equality, and Accessibility); and **Information Systems and Library**. These roles reflect sustained contributions to institute operations and culture, spanning infrastructure planning, inclusivity and accessibility, and research-enabling services.
 
 ## Cooperative interactions and ambassadorial work
 
