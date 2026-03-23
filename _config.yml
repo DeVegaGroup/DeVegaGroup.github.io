@@ -9,7 +9,7 @@ url: https://devegagroup.github.io
 
 
 # Navigation settings
-nav_enabled: false
+nav_enabled: True
 search_enabled: false
 
 
