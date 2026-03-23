@@ -1,18 +1,21 @@
 ---
 layout: default
 title: Tools/Repos
-nav_order: 6
+nav_order: 5
 has_children: true
 ---
 
-# Software & Repositories
-Open-source tools and datasets.
+# Open Software and Data
+We believe in the power of open science. [cite_start]Our group actively develops and maintains computational pipelines designed to fill the technical gaps in polyploid genomics[cite: 4].
 
-## Frameworks
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sed dictum sem, vel ullamcorper ante. Integer elementum, nibh ut eleifend convallis, est risus varius sem, sed convallis magna magna vel nibh. Aenean non accumsan ante. Duis nisl ex, condimentum a varius vel, interdum nec magna. 
+## Core Pipelines
+* [cite_start]**Bananapore**: An end-to-end long-read workflow (Q20+ ONT) designed to analyze copy number variation (CNV) and structural variation in banana pangenomes[cite: 3].
+* [cite_start]**Introgressions by Relative Depth**: A novel read-depth-based metric used to map homoeologous exchanges between subgenomes in polyploid species[cite: 3].
 
-## Datasets
-Suspendisse potenti. Nullam accumsan, Mauris efficitur, nisi nec feugiat hendrerit. In hac habitasse platea dictumst. Curabitur vel diam nec velit interdum varius. Mauris efficitur, nisi nec feugiat hendrerit, diam diam sollicitudin tellus, id elementum nisl urna id enim. 
+## Community Code
+[cite_start]We release all of our code openly to the research community to ensure transparency and reproducibility[cite: 4].
+* [cite_start]**GWAS & Pangenome Graphs**: We are currently testing if GWAS using pangenome graphs outperforms single-reference approaches in complex crops like white clover[cite: 3].
+* [cite_start]**FAIR Data Management**: We lead data work packages in large EU consortia to manage trial data under FAIR principles, establishing global standards and ontologies for legume breeding[cite: 3].
 
-## Contribution Guide
-Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+## Repository Links
+[Link to Group GitHub - Add your URL here]
