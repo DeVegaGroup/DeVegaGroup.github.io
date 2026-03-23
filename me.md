@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# Dr. Jose De Vega: A Journey Through Genomes
+# Dr. Jose De Vega: Through Genomes
 
 [cite_start]My scientific path began in **Salamanca, Spain**, where I earned my PhD in Agronomic Biotechnology, focusing on the molecular interactions of the *Fusarium* wilt in common beans[cite: 1]. [cite_start]This foundational interest in crop resilience has guided my career across Europe, from transcriptomics in Portuguese pines to managing major genome projects for red clover and Miscanthus in the UK[cite: 1].
 
