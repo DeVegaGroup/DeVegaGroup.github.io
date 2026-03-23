@@ -2,7 +2,6 @@
 layout: default
 title: People
 nav_order: 2
-has_children: true
 ---
 
 ## Current Group Members
