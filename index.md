@@ -4,7 +4,7 @@ title: Our Research
 nav_order: 1
 ---
 
-# The Crop Evolution & Adaptation Lab
+# Crop Evolution & Adaptation
 
 One of the central questions in biological research is how phenotypes arise. In this context, our research aims to understand _how the evolutionary processes of hybridisation and polyploidisation shape genetic diversity across the genome and how this diversity manifests in agronomic traits that could be leveraged in breeding_. We work at the interface of genome evolution and crop improvement.
 
