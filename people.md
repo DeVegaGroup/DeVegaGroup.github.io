@@ -21,9 +21,10 @@ We take great pride in the success of our former members who have moved on to pr
 * **Juliana Rodriguez**: Former research intern, now a PhD student at the University of Edinburgh.
 * **Dr Nasmille Mejia**, Former PDRA, now at Univ. Copenhagen.
 
-## Short-term undergrad students & visitors
+## Short-term students & visitors
 Providing students with substantial projects and opportunities to communicate their research outputs. This approach has led many of our interns to pursue successful research careers.
 
+* Revocatus Byanyuma-Bahitwa, JIF-funded rotation PhD student (Studying)
 * Ben Wildey, BBSRC-funded intern (Studying)
 * Thomas Di Marzo, Summer School intern (Studying)
 * Marya Fralova, Summer School intern (Studying)
