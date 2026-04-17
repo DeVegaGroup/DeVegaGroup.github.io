@@ -15,6 +15,9 @@ impact and driven by stakeholders’ needs, while advancing the Institute's visi
 
 Our code and datasets are released in accordance with *FAIR principles* to enable reuse and cumulative improvement by the wider community.
 
+<img src="/img/2025.jpg" width="200">
+
+
 ![2025](/img/2025.jpg)
 
 ![2024](/img/2024.jpg)
