@@ -13,7 +13,10 @@ Our lab aims to be a vibrant place for plant evolutionary genomics that addresse
 Our focus on allopolyploid crops and established breeding partnerships ensures our research remains grounded in agricultural
 impact and driven by stakeholders’ needs, while advancing the Institute's vision to predict biology at scale.
 
-Our code and datasets will be released in accordance with FAIR principles to enable reuse and cumulative improvement by the wider community.
+Our code and datasets are released in accordance with *FAIR principles* to enable reuse and cumulative improvement by the wider community.
+
+![2025](/img/2025.jpg)
+![2024](/img/2024.jpg)
 
 # Crop Evolution & Adaptation
 
@@ -44,3 +47,9 @@ We focus on allopolyploid and interspecific crop systems because they are biolog
 A longer-term ambition of the lab is to build prediction models that make biological behaviour increasingly predictable from genome, phenotype, and environment, and that improve as new trials, experimental validation, and genomic resources become available. We will explicitly use high-throughput, data-driven biology and AI where appropriate.
 
 We will iterate through discovery, prediction, and experimental validation. The causal findings from our work on genome evolution, together with feature prioritisation, will provide interpretable inputs for modelling. Predictions can then be tested through trials, bioassays, and collaborator-led validation. In this way, the lab aims to move from understanding how crop genomes evolve to developing predictive genomics to improve crops.
+
+## Acknowledgement
+
+We are supported by the Earlham Institute’s research office and other support teams, the Transformative Genomics group at the Earlham Institute, BDE and support teams, the Norwich Bioscience Institute's research computing, contracts, and finance teams, horticultural services at the John Innes Centre, and genebank personnel from around the world.
+
+We are funded by the BBSRC, part of UK Research and Innovation (UKRI), through the Earlham Institute Strategic Programme Grant Decoding Biodiversity BBX011089/1 and its constituent work package BBS/E/ER/230002B (Decode WP2); the Institute Strategic Programme Grant Resilient Crops BB/X011062/1 under project BBS/E/ER/230004A; the BBSRC-funded Norwich Research Park Biosciences Doctoral Training Partnership grant BB/T008717/1; the NERC-funded ARIES Doctoral Training Landscape Grant; and the Innovate UK-funded grants 10077978 (Legume Generation) and 10102570 (KTN).
