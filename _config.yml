@@ -15,6 +15,9 @@ search_enabled: false
 
 
 nav_external_links:
+  - title: Our Institutional Page
+    url: https://www.earlham.ac.uk/scientific-group/de-vega-group
+    hide_icon: false
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=vqxvVxQAAAAJ
     hide_icon: false
