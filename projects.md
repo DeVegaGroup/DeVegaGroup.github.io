@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Projects
+title: Projects & Collaborators
 nav_order: 3
 ---
 
+TBA: Information about collaborators in each theme...
 
 # Research to date
 
