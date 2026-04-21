@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Impact
+title: Impact & ToC
 nav_order: 4
 ---
+
+# Theory of Change
+<img src="/img/toc.png" width="600">
 
 # Impact
 
