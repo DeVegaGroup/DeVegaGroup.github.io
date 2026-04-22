@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # Theory of Change
-<img src="/img/toc.png" width="600">
+<img src="/img/toc.png" width="900">
 
 # Impact
 
