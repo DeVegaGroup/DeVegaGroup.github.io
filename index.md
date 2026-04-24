@@ -19,6 +19,7 @@ Our code and datasets are released in accordance with *FAIR principles* to enabl
 <img src="/img/2025.jpg" width="400">
 <img src="/img/2024.jpg" width="400">
 
+<img src="/img/banner.png" width="900">
 
 # Crop Evolution & Adaptation
 
