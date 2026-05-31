@@ -3,6 +3,7 @@ layout: default
 title: Our Research
 nav_order: 1
 ---
+<img src="/img/top.png" width="900">
 
 # Who we are
 
@@ -15,7 +16,6 @@ impact and driven by stakeholders’ needs, while advancing the Institute's visi
 
 Our code and datasets are released in accordance with *FAIR principles* to enable reuse and cumulative improvement by the wider community.
 
-<img src="/img/banner.png" width="900">
 
 <img src="/img/PXL_20240820_151358551.MP.jpg" width="400">
 <img src="/img/2025.jpg" width="400">
@@ -57,3 +57,6 @@ We will iterate through discovery, prediction, and experimental validation. The 
 We are supported by the Earlham Institute’s research office and other support teams, the Transformative Genomics group at the Earlham Institute, BDE and support teams, the Norwich Bioscience Institute's research computing, contracts, and finance teams, horticultural services at the John Innes Centre, and genebank personnel from around the world.
 
 We are funded by the BBSRC, part of UK Research and Innovation (UKRI), through the Earlham Institute Strategic Programme Grant Decoding Biodiversity BBX011089/1 and its constituent work package BBS/E/ER/230002B (Decode WP2); the Institute Strategic Programme Grant Resilient Crops BB/X011062/1 under project BBS/E/ER/230004A; the BBSRC-funded Norwich Research Park Biosciences Doctoral Training Partnership grant BB/T008717/1; the NERC-funded ARIES Doctoral Training Landscape Grant; and the Innovate UK-funded grants 10077978 (Legume Generation) and 10102570 (KTN).
+
+<img src="/img/banner.png" width="900">
+
