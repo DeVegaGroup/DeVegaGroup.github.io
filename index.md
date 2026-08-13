@@ -3,7 +3,6 @@ layout: default
 title: Our Research
 nav_order: 1
 ---
-<img src="/img/top.png" width="900">
 
 # Who we are
 
