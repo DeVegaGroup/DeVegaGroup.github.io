@@ -6,32 +6,35 @@ nav_order: 4
 
 Our projects connect **genome evolution, genetic variation and crop improvement** with the development of genomic resources, analytical tools and data infrastructure. We work across academic institutes, CGIAR centres, breeding companies and international consortia, with an emphasis on research that can move from biological discovery to practical use.
 
-## On this page
+# Transversal themes across projects
 
-- [Research themes](#research-themes)
+## Understanding hybridisation and introgression:
+One of the lab's long-standing questions is how hybridisation and gene flow reshape genomes and phenotypes. In Vietnamese rice, we investigated population structure, selection and introgression within locally adapted landraces. In common bean, we characterised admixture between the Mesoamerican and Andean gene pools and examined how introgressed genomic regions relate to domestication-associated and stress-response traits. These systems established a research framework that now extends across our programme: combine population history with functional and quantitative genomics rather than treating genetic associations independently of the evolutionary processes that generated them.
+
+## Genome evolution in complex crop systems:
+In banana and tropical forage grasses, our work has increasingly focused on the genomic consequences of hybridisation and polyploidisation. We develop and apply approaches for detecting ancestry mosaics, structural and copy-number variation, dosage differences, introgression and homoeologous exchange. Long-read sequencing and pangenomic approaches now allow us to characterise these processes at increasingly high resolution. Together, these projects provide the biological and computational foundation for our current work on **genomic variation, prediction and community resources for crop improvement**.
+
+
+## Projects on this page
+
 - [Complex genomes, pangenomes and genetic variation](#complex-genomes-pangenomes-and-genetic-variation)
+  - [White clover: pangenomics for climate-resilient breeding](#white-clover-pangenomics-for-climate-resilient-breeding)
+  - [DECODE: variation beyond a single reference genome](#decode-variation-beyond-a-single-reference-genome)
+  - [Polyploid and hybrid genome assembly](#polyploid-and-hybrid-genome-assembly)
 - [Genomics for breeding](#genomics-for-breeding)
+  - [Celery and vegetable breeding with Tozer Seeds](#celery-and-vegetable-breeding-with-tozer-seeds)
+  - [Common bean: domestication, adaptation and prediction](#common-bean-domestication-adaptation-and-prediction)
 - [Integrated data for breeding](#integrated-data-for-breeding)
+  - [Legume Generation: community genomic resources and data infrastructure](#legume-generation-community-genomic-resources-and-data-infrastructure)
 - [Crop resilience](#crop-resilience)
+  - [Banana diversity and Fusarium resistance](#banana-diversity-and-fusarium-resistance)
+  - [Tropical forage genomics and insect-pest resistance](#tropical-forage-genomics-and-insect-pest-resistance)
+  - [Rice diversity and breeder training](#rice-diversity-and-breeder-training)
+  - [Tropical forage partnerships](#tropical-forage-partnerships)
 
 
-# Research themes
 
-## Understanding hybridisation and introgression
 
-One of the lab's long-standing questions is how hybridisation and gene flow reshape genomes and phenotypes.
-
-In Vietnamese rice, we investigated population structure, selection and introgression within locally adapted landraces. In common bean, we characterised admixture between the Mesoamerican and Andean gene pools and examined how introgressed genomic regions relate to domestication-associated and stress-response traits.
-
-These systems established a research framework that now extends across our programme: combine population history with functional and quantitative genomics rather than treating genetic associations independently of the evolutionary processes that generated them.
-
-## Genome evolution in complex crop systems
-
-In banana and tropical forage grasses, our work has increasingly focused on the genomic consequences of hybridisation and polyploidisation.
-
-We develop and apply approaches for detecting ancestry mosaics, structural and copy-number variation, dosage differences, introgression and homoeologous exchange. Long-read sequencing and pangenomic approaches now allow us to characterise these processes at increasingly high resolution.
-
-Together, these projects provide the biological and computational foundation for our current work on **genomic variation, prediction and community resources for crop improvement**.
 
 
 # Complex genomes, pangenomes and genetic variation
