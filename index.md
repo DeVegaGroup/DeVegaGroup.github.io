@@ -4,7 +4,7 @@ title: Our Research
 nav_order: 1
 ---
 
-<img src="/img/title.png">
+<img src="/img/title.jpg">
 
 
 # Who we are
