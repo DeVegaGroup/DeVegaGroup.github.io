@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jose (me)
-nav_order: 5
+nav_order: 3
 ---
 
 # Dr Jose De Vega
