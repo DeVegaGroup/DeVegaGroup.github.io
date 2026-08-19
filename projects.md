@@ -4,30 +4,134 @@ title: Projects & Collaborators
 nav_order: 3
 ---
 
-TBA: Information about collaborators in each theme...
+# Research themes
 
-# Research to date
+## Understanding hybridisation and introgression
 
-## Understanding the hybrids
+One of the lab's long-standing questions is how hybridisation and gene flow reshape genomes and phenotypes.
 
-We test how hybridisation and polyploid history shape genomes and traits using exemplar systems. One of our first projects investigated the population structure of rice landraces from Vietnam and placed them within global Asian rice diversity. With local partners, we found that Vietnamese rice landraces clustered separately from elite materials. We also identified an isolated subpopulation of indica landraces around the Red River Delta with genome-wide japonica introgression. We then identified support for lineage-specific signatures of selection and mapped the japonica introgressions to candidate genes, showing that these landraces were not only distinctive, but that these findings also relate to functional traits and breeding.
+In Vietnamese rice, we investigated population structure, selection and introgression within locally adapted landraces. In common bean, we characterised admixture between the Mesoamerican and Andean gene pools and examined how introgressed genomic regions relate to domestication-associated and stress-response traits.
 
-In parallel, we established work on admixture between the Mesoamerican and Andean gene pools in common bean in Colombia and neighbouring countries. This region appears to be both highly diverse and a point of contact between the two domestication events of the species. We assembled a panel including admixed and pure gene-pool accessions and mapped QTL for domestication-associated traits, notably photoperiod insensitivity and determinacy. We then mapped introgressed regions in the panel and tested whether introgression explained trait variation that was confounded with population structure. In this work, domestication was interpreted from a gene flow perspective, not simply as QTL mapping. We also quantified tolerance to water deprivation and identified variation in drought-response strategies, together with markers associated with these strategies that support marker-assisted selection in breeding populations.
+These systems established a research framework that now extends across our programme: combine population history with functional and quantitative genomics rather than treating genetic associations independently of the evolutionary processes that generated them.
 
 ## Genome evolution in complex crop systems
 
-We have also mapped introgression in banana and linked it to fruit-related traits using genome-wide association analyses in a panel spanning variable ploidy, including predominantly triploid cultivars, diploid wild accessions, and tetraploid breeding lines. We confirmed that cultivated accessions formed clonal groups corresponding to named varieties shaped by long-term farmer selection and maintained through clonal propagation. We then mapped homoeologous exchanges between subgenomes by developing a novel read-depth-based metric and carried out association analyses for plant architecture and yield-related traits.
+In banana and tropical forage grasses, our work has increasingly focused on the genomic consequences of hybridisation and polyploidisation.
 
-More recently, in collaboration with a UK biotech company, we established macropropagation and infection-assay protocols and evaluated Fusarium tolerance using representative accessions from those clonal groups. We constructed a banana pan-NLRome and combined NLR presence/absence variation with disease response to prioritise candidate disease-response loci for editing. We focus on disease tolerance because immune-related NLR genes often occur in rapidly evolving, copy-variable genomic regions in both hosts and pathogens.
+We develop and apply approaches for detecting ancestry mosaics, structural and copy-number variation, dosage differences, introgression and homoeologous exchange. Long-read sequencing and pangenomic approaches now allow us to characterise these processes at increasingly high resolution.
 
-Because most edible banana cultivars are clonally propagated, their genomes change primarily through the accumulation of somatic variation, making banana a tractable system for relating somatic genomic change to phenotypic effects. This work also extends to epigenetic variation and to the analysis of non-true-to-type somatic variants arising during gene-editing pipelines, with the aim of understanding somatic mosaicism and scale-up constraints in precision breeding.
+Together, these projects provide the biological and computational foundation for our current work on **genomic variation, prediction and community resources for crop improvement**.
 
-Our contributions have also allowed us to place greater emphasis on polyploids because long-read sequencing enables us to tackle their technical challenges. Arising from chromosomal rearrangements and introgression, copy number variants can alter gene dosage and contribute to phenotypic variation. We are developing end-to-end long-read workflows to test this in banana, and we have also completed and published haplotype-resolved polyploid genomes from both PacBio and ONT reads. More broadly, our work helps fill technical gaps in polyploid genomics, as many community tools are still primarily optimised for diploid organisms.
 
-## Accelerating crop improvement
+# Complex genomes, pangenomes and genetic variation
 
-A central part of the lab’s work is to translate genomic insight into breeder-ready resources. With a British Forages Breeding Company, we are characterising a diverse panel of white clover and testing associations with yield across fertilisation regimes and temperature treatments using GWAS, alongside landscape-genomic analyses of climatic adaptation, to identify suitable breeding materials. These analyses also allow us to test whether GWAS using pangenome graphs outperforms single-reference approaches. This project contributes both to breeding and to our broader interest in subgenome composition and hybrid complexity.
+## White clover: pangenomics for climate-resilient breeding
 
-With a British Vegetables Breeding company, we are characterising a herb diversity panel and conducting multi-trial GWAS to deliver markers for marker-assisted selection in breeding populations. This project has also served as an example of transferability to new crops and commercial settings, highlighting that domestication history and population structure can be more decisive than phylogenetic distance for robust association mapping.
+With **Germinal Horizon** and **IBERS**, we are developing genomic resources for white clover, an agriculturally important but comparatively under-resourced forage crop.
 
-Over the past two years, we have also expanded into phenotype prediction in breeding. Our work in large EU breeding consortia, Legume Generation, supports marker-assisted and genomic prediction in legumes. We curate and manage raw trial data under FAIR principles, establish standards and ontologies, and perform multi-site, multi-season analyses to generate breeder-ready phenotypes. We also collaborate with breeders to evaluate imputation accuracy and to benchmark genomic prediction models, including mixed-model and machine-learning approaches, for sparse testing across environments. Together, these efforts highlight a long-term path in which genomics supports decision-making in breeding and reduces the burden of trials through better predictions.
+The project combines a European diversity panel, environmental information and new long-read sequencing to generate multiple high-quality genome assemblies and develop a **white-clover pangenome**. We are using this framework to characterise variation associated with cold tolerance, persistence and environmental adaptation, while also testing whether pangenome-based approaches improve variant discovery and association mapping relative to a single reference genome.
+
+This project directly links evolutionary genomics, quantitative genetics and practical plant breeding.
+
+Further reading: [Unlocking the agricultural value of clover](https://www.earlham.ac.uk/articles/unlocking-agricultural-value-clover).
+
+## DECODE: variation beyond a single reference genome
+
+Within the BBSRC Institute Strategic Programme **Decoding Biodiversity (DECODE)**, we investigate how introgression, chromosomal rearrangements, structural variation and other forms of complex diversity contribute to agriculturally important traits.
+
+A central theme is the transition from single reference genomes towards multiple high-quality assemblies, long-read population datasets and richer representations of genomic variation. These approaches are particularly important in hybrid, polyploid and highly diverse crop systems where biologically important variation can be missed by SNP-centred analyses alone.
+
+Further reading: [Characterising gene function, biosynthetic pathways and variation in agri/aquacultural traits](https://www.earlham.ac.uk/research-project/characterising-gene-function-biosynthetic-pathways-and-variation-agriaquacultural).
+
+## Polyploid and hybrid genome assembly
+
+Long-read sequencing has allowed us to address technical and biological questions in complex polyploid genomes. We have completed and published haplotype-resolved chromosome-level assemblies from PacBio and Oxford Nanopore data and continue to develop end-to-end workflows for assembly, quality control and structural-variation analysis.
+
+Our work in *Urochloa* and banana examines ancestry, introgression, dosage, homoeologous exchange and chromosomal imbalance, helping fill methodological gaps in crop systems for which many standard genomics tools remain optimised for diploid organisms.
+
+
+# Genomics for breeding
+
+## Celery and vegetable breeding with Tozer Seeds
+
+Through an Innovate UK **Knowledge Transfer Partnership with Tozer Seeds**, we are embedding genomics and computational approaches directly within a commercial vegetable-breeding programme.
+
+The project characterises diversity in breeding material and uses multi-trial association analyses to identify markers that can support marker-assisted selection. It also provides a practical test of how genomic methods transfer between crop systems and how population structure, domestication history and trial design affect the robustness of association mapping.
+
+The collaboration links academic genomics with the operational requirements of a breeding company, helping develop tools and approaches that can be sustained beyond an individual research project.
+
+Further reading: [Collaborating to create resilient celery](https://www.earlham.ac.uk/collaborating-create-resilient-celery).
+
+## Common bean: domestication, adaptation and prediction
+
+We study diversity across the Mesoamerican and Andean gene pools of common bean and their admixed populations in Colombia and neighbouring regions.
+
+Our work has mapped QTL for domestication-associated traits, including photoperiod sensitivity and determinacy, and has used population genomics to distinguish trait associations from the effects of population structure and introgression. We have also investigated variation in drought-response strategies and markers with potential value for breeding.
+
+More recently, this work has expanded towards **phenotype prediction**, including benchmarking mixed and machine-learning models and examining how genomic prediction can support sparse testing across environments.
+
+
+# Integrated data for breeding 
+
+## Legume Generation: community genomic resources and data infrastructure
+
+Within the Horizon Europe **Legume Generation** programme, we co-lead work to develop the project's digital Knowledge Centre and **Legume Discovery** platform. The consortium brings together research organisations and breeding programmes across multiple countries and crops, with phenotypic and genetic data contributed by partners working on soybean, pea, lentil, common bean, lupin and clover.
+
+Our work is moving towards a **single integrated environment for plant-evaluation, multi-environment trial and genotyping data**, replacing the initially proposed separation between phenotypic and marker-data platforms.
+
+The platform is being developed around FAIR principles and the practical needs of the project's crop Innovation Communities. Current work includes:
+
+- integrating trial and phenotypic datasets from multiple partners;
+- harmonising metadata and developing standardised trait ontologies;
+- creating crop-specific interfaces for data discovery and exploration;
+- supporting multi-environment analysis with mixed-linear models, **BLUEs and BLUPs**;
+- comparing alternative normalisation models so users can assess their performance;
+- integrating genotyping and marker information;
+- developing the backend required for downstream **GWAS and marker-to-target discovery**.
+
+The technical development is led within the group by a computational PDRA, with scientific requirements shaped through regular engagement with the crop Innovation Communities and other project partners.
+
+This work reflects a broader aim of the lab: to make genomic and phenotypic information not only available, but **findable, interoperable, analytically useful and reusable** by researchers and breeders.
+
+Further reading: [Boosting beans for breeders](https://www.earlham.ac.uk/articles/boosting-beans-breeders) and [Standout innovation contributes to knowledge exchange](https://www.earlham.ac.uk/articles/standout-innovation-contributes-knowledge-exchange).
+
+
+# Crop resilience 
+
+## Banana diversity and Fusarium resistance
+
+Banana provides a model for understanding the consequences of hybridisation, polyploidy, clonal propagation and somatic variation in a crop of major global importance.
+
+We have mapped introgression and homoeologous exchanges across cultivated banana diversity and linked genomic variation to fruit, plant architecture and yield-related traits. Building on this population framework, we established macropropagation and Fusarium infection assays in collaboration with **Tropic Biosciences**, allowing representative genotypes to be tested for resistance to TR4.
+
+We have also developed a banana pan-NLRome and combined NLR presence/absence variation with disease-response phenotypes to prioritise candidate resistance loci. This connects population genomics, structural variation and experimental validation with routes towards precision breeding and genome editing.
+
+Further reading: [Bananas are on the brink but close cousins could save their skins](https://www.earlham.ac.uk/articles/bananas-are-brink-close-cousins-could-save-their-skins).
+
+## Tropical forage genomics and insect-pest resistance
+
+Our long-standing work on *Brachiaria/Urochloa* tropical forage grasses combines genome resources, quantitative genetics and breeding applications.
+
+We have generated reference and haplotype-resolved genome assemblies, developed genetic maps and identified markers for agronomically important traits including apomixis. More recently, we have combined high-throughput image phenotyping and genome-wide association analysis to investigate resistance to the hemipteran spittlebug *Aeneolamia varia*.
+
+This work places genomic analysis directly at the **crop–insect pest interface**, while maintaining a strong connection to forage breeding and sustainable livestock production.
+
+Further reading: [Study identifies candidate genes to accelerate tropical forage breeding](https://www.earlham.ac.uk/articles/study-identifies-candidate-genes-accelerate-tropical-forage-breeding).
+
+## Rice diversity and breeder training
+
+One of our earlier projects investigated the population structure and adaptation of Vietnamese rice landraces in the context of global Asian rice diversity.
+
+Working with local partners, we identified distinctive Vietnamese diversity, including an indica population around the Red River Delta carrying genome-wide japonica introgression, and linked signatures of selection and introgression with candidate traits relevant to adaptation and breeding.
+
+The project also supported international training and capacity building in genomics and bioinformatics.
+
+Further reading: [Rice crops in a changing climate](https://www.earlham.ac.uk/research-project/rice-crops-changing-climate).
+
+## Tropical forage partnerships
+
+Our forage-genomics work has involved long-standing collaboration with **CIAT and ILRI**, linking genomic resources and breeding tools to crops important for livestock production in tropical regions.
+
+These collaborations have combined genome sequencing, quantitative genetics, marker development and training, with the aim of making genomics directly useful to breeding programmes operating in regions where forage improvement can contribute to more productive and sustainable livestock systems.
+
+
