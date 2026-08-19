@@ -4,6 +4,9 @@ title: Our Research
 nav_order: 1
 ---
 
+<img src="/img/title.png">
+
+
 # Who we are
 
 We are the Crop Evolution & Adaptation Lab (De Vega Lab) at the Earlham Institute (Norwich Research Park, UK). 
