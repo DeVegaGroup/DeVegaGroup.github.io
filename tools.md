@@ -146,7 +146,7 @@ This section is deliberately redundant. It provides the fastest route from a pub
     - **Phenotypes:** physiological drought-response measurements
     - **Tables / data:** differential-expression, pathway and GO analyses
 
-- **2020**
+- **2020...**
   - ***Miscanthus sinensis* chromosome-scale genome and population variation**
     - **Paper:** [Genome biology of the paleotetraploid perennial biomass crop *Miscanthus*](https://doi.org/10.1038/s41467-020-18923-6)
     - **Raw reads:** [genomic reads PRJNA346689](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA346689) · transcriptomic reads `PRJNA575573` and `SRP017791`
@@ -158,21 +158,18 @@ This section is deliberately redundant. It provides the fastest route from a pub
     - **Phenotypes:** survival, flowering, vegetative growth and environmental variables
     - **Tables / data:** 75 accessions / 640 plants · candidate-selection, population, phenotype and geographic tables
 
-- **2019**
   - ***Lolium perenne* physical genome resource and European GWAS panel**
     - **Paper:** [Integrating a newly developed BAC-based physical mapping resource for *Lolium perenne* with a genome-wide association study across a *L. perenne* European ecotype collection identifies genomic contexts associated with agriculturally important traits](https://doi.org/10.1093/aob/mcy230)
     - **Raw reads:** [BAC sequencing BioProject PRJNA475227](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA475227)
     - **Phenotypes:** 716 genotypes from 90 European accessions evaluated for agronomic traits
     - **Tables / data:** [LpBAC5000](https://doi.org/10.20391/dfb05330-7485-444f-a475-8310bee5d510) · [physical maps](https://doi.org/10.20391/bb56e6d7-8913-4bd7-8167-2b7e4c01382b) · [BAC-end database](https://doi.org/10.20391/61921116-ddd0-4d85-b0fd-e0d734bc63c8) · Supplementary Table S2 accession geography
 
-- **2016**
   - ***Urochloa* apomixis / aluminium-tolerance F1 family**
     - **Paper:** [A Parthenogenesis Gene Candidate and Evidence for Segmental Allopolyploidy in Apomictic *Brachiaria decumbens*](https://doi.org/10.1534/genetics.116.190314)
     - **Paper:** [A new genome allows the identification of genes associated with natural variation in aluminium tolerance in Brachiaria grasses](https://doi.org/10.1093/jxb/eraa469)
     - **Phenotypes:** reproductive mode and aluminium tolerance in the same BRX 44-02 × CIAT 606 segregating family
     - **Tables / data:** GBS genotypes, segregation classes, linkage maps, phenotype datasets and candidate-region analyses
 
-- **2015**
   - **Red-clover reference genome**
     - **Paper:** [Red clover (*Trifolium pratense* L.) draft genome provides a platform for trait improvement](https://doi.org/10.1038/srep17394)
     - **Raw reads:** [ENA PRJEB9186](https://www.ebi.ac.uk/ena/browser/view/PRJEB9186)
