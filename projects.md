@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects & Collaborators
-nav_order: 4
+nav_order: 5
 ---
 
 Our projects connect **genome evolution, genetic variation and crop improvement** with the development of genomic resources, analytical tools and data infrastructure. We work across academic institutes, international centres, breeding companies and international consortia.
